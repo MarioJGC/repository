@@ -637,7 +637,7 @@ generator = pipeline(\"text-generation\")
 
 El modelo tiene 124,439,808 parámetros
 
-![](./image4.png)
+![Imagen 4](https://github.com/MarioJGC/repository/blob/main/image4.png)
 
 #### Comparación GPT-2 small vs GPT-2 medium.
 
@@ -658,7 +658,7 @@ my mother. En conclusión auto completa mi prompt con el token que podría
 seguir en base a una probabilidad y lo vuelve a repetir hasta terminar
 su respuesta.
 
-![](./image3.png)
+![Imagen 3](https://github.com/MarioJGC/repository/blob/main/image3.png)
 
 ## Comparación GPT-2 y Qwen3 1.7B
 ### Parte 1: Ejecutar ambos modelos
@@ -693,12 +693,10 @@ a seguir en caso de un huracán"
 #### 3\. Mostrar los outputs
 
 >**GPT2**
-
-![](./image1.png)
+![Imagen 1](https://github.com/MarioJGC/repository/blob/main/image1.png)
 
 >**Qwen3 1.7B**
-
-![](./image2.png)
+![Imagen 2](https://github.com/MarioJGC/repository/blob/main/image2.png)
 
 #### 4\. Analiza los resultados: ¿Coincidieron con tus expectativas?
 
