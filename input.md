@@ -625,8 +625,7 @@ generator = pipeline(\"text-generation\")
 >entrenando o dando contexto al modelo usando data. Además para poder
 >entrenar un modelo se requiere de una tarjeta gráfica potente.
 
-#### ¿Por qué la generación tarda más en la CPU en comparación con la
-GPU?
+#### ¿Por qué la generación tarda más en la CPU en comparación con la GPU?
 
 >Toma más tiempo en la CPU porque está diseãdo para realizar
 >procesamiento secuencial, en cambio las GPUs están pensadas para
@@ -638,7 +637,7 @@ GPU?
 
 El modelo tiene 124,439,808 parámetros
 
-![](./image4.png){width="6.267716535433071in" height="0.875in"}
+![](./image4.png)
 
 #### Comparación GPT-2 small vs GPT-2 medium.
 
@@ -659,8 +658,7 @@ my mother. En conclusión auto completa mi prompt con el token que podría
 seguir en base a una probabilidad y lo vuelve a repetir hasta terminar
 su respuesta.
 
-![](./image3.png){width="6.267716535433071in"
-height="1.5555555555555556in"}
+![](./image3.png)
 
 ## Comparación GPT-2 y Qwen3 1.7B
 ### Parte 1: Ejecutar ambos modelos
@@ -696,13 +694,11 @@ a seguir en caso de un huracán"
 
 >**GPT2**
 
-![](./image1.png){width="6.267716535433071in"
-height="2.4444444444444446in"}
+![](./image1.png)
 
 >**Qwen3 1.7B**
 
-![](./image2.png){width="6.267716535433071in"
-height="3.4166666666666665in"}
+![](./image2.png)
 
 #### 4\. Analiza los resultados: ¿Coincidieron con tus expectativas?
 
